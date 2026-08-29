@@ -1,22 +1,22 @@
 # Online Shop — E-Commerce Website with WhatsApp Integration
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a modern online shopping website designed to allow customers to browse products, view product information, and contact the shop directly through WhatsApp.
 
 The website combines a simple e-commerce interface with WhatsApp integration to make customer communication and order inquiries faster and easier.
 
-## ✨ Features
+##  Features
 
-* 🛍️ Product catalog
-* 🔎 Product search and browsing
-* 📱 Responsive design for mobile and desktop
-* 🛒 Shopping cart functionality
-* 💬 WhatsApp customer-support integration
-* 📦 Product details and availability
-* 📞 Direct customer communication
-* 🧾 Order/inquiry submission
-* 🎨 Clean and user-friendly interface
+*  Product catalog
+*  Product search and browsing
+*  Responsive design for mobile and desktop
+*  Shopping cart functionality
+*  WhatsApp customer-support integration
+*  Product details and availability
+*  Direct customer communication
+*  Order/inquiry submission
+*  Clean and user-friendly interface
 
 ## 💬 WhatsApp Integration
 
@@ -24,7 +24,7 @@ The website provides a direct WhatsApp contact option. Customers can click the W
 
 A typical WhatsApp link can be structured as:
 
-`https://wa.me/PHONE_NUMBER?text=YOUR_MESSAGE`
+`https://wa.me/+255775794221?text=YOUR_MESSAGE`
 
 The integration can be used for:
 
@@ -41,9 +41,6 @@ Depending on the implementation, the project can use:
 * HTML5
 * CSS3
 * JavaScript
-* Bootstrap or another CSS framework
-* PHP / Node.js for the backend
-* MySQL for database storage
 * WhatsApp integration
 
 ## 📁 Project Structure
@@ -51,22 +48,11 @@ Depending on the implementation, the project can use:
 ```text
 online-shop/
 ├── index.html
-├── products.html
-├── product-details.html
-├── cart.html
-├── contact.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   └── products/
-├── backend/
-│   └── ...
+ inline css
 └── README.md
 ```
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository.
 2. Open the project directory.
@@ -75,7 +61,7 @@ online-shop/
 5. Start the development server.
 6. Open the website in your browser.
 
-## ⚙️ Configuration
+##  Configuration
 
 Before deploying the website, configure:
 
@@ -87,7 +73,7 @@ Before deploying the website, configure:
 * Database credentials
 * Contact information
 
-## 🔐 Security
+##  Security
 
 For a production deployment:
 
@@ -98,7 +84,7 @@ For a production deployment:
 * Protect administrative pages.
 * Never expose private API keys or credentials in frontend code.
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The website is designed to work across:
 
@@ -107,7 +93,7 @@ The website is designed to work across:
 * Tablets
 * Mobile phones
 
-## 🎯 Project Goals
+##  Project Goals
 
 The main goals of this project are to:
 
@@ -121,8 +107,8 @@ The main goals of this project are to:
 
 This project can be released under the MIT License or another license selected by the project owner.
 
-## 👨‍💻 Author
+##  Author 
 
-**[Your Name]**
+**[eDDie]**
 
 Online Shop E-Commerce Project
